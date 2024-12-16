@@ -149,3 +149,9 @@ core
 *jianh*
 *test_scripts*
 */checkpoint/*
+
+# Commongrid
+cache
+tmp
+*.sif 
+pretrained_weights
